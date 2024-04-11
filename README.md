@@ -7,15 +7,12 @@ Hope you like it ❤
 best of luck 😎
 
 
+![bankist landing](https://github.com/saeeddev-ir/bankist-landing-page/assets/105293554/88c4a55d-684c-457f-b052-26e6830721b9)
 
 
 
 
-
-![guess number](https://github.com/saeeddev-ir/guess-number/assets/105293554/63910ee2-e625-4595-9cd3-4e62275c6c69)
-
-
-🔗 [Demo Project](https://saeeddev-ir.github.io/guess-number/)
+🔗 [Demo Project](https://saeeddev-ir.github.io/bankist-landing-page/)
 
 👨‍💻 Developed by Saeed Abdollahi
 
